@@ -59,3 +59,9 @@
 ```html
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>Yo doy el consentimiento para la atención médica</span> <!--TODO: Changed "Consentimiento para la atencion medica" to "Yo doy el consentimiento para la atención médica"-->
 ```
+
+- Re-word `Photo Consent` clause:
+```html
+<span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>Yo doy permiso para sacar fotos y usarlos en la parroquia</span> <!--TODO: Changed "Permiso para tomar fotos" to "Yo doy permiso para sacar fotos y usarlos en la parroquia"-->
+```
+
