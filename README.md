@@ -65,3 +65,11 @@
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>Yo doy permiso para sacar fotos y usarlos en la parroquia</span> <!--TODO: Changed "Permiso para tomar fotos" to "Yo doy permiso para sacar fotos y usarlos en la parroquia"-->
 ```
 
+- Update `SUBMIT` button label:
+```html
+<div _ngcontent-egv-c169="" fxlayout="row" fxlayoutgap="10px" fxflex="" style="flex-direction: row; box-sizing: border-box; display: flex; flex: 1 1 1e-9px;">
+    <button _ngcontent-egv-c169="" type="submit" mat-raised-button="" class="mat-focus-indicator mat-raised-button mat-button-base">
+        <span class="mat-button-wrapper"> INSCRIBIRSE </span><span matripple="" class="mat-ripple mat-button-ripple"></span><span class="mat-button-focus-overlay"></span> <!--TODO: changed button label from "REGISTRARSE" to "INSCRIBIRSE"-->
+    </button>
+</div>
+```
