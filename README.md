@@ -53,5 +53,9 @@
     ...
 </div>
 
+```
 
+- Re-word `Medical Attention` consent clause:
+```html
+<span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>Yo doy el consentimiento para la atención médica</span> <!--TODO: Changed "Consentimiento para la atencion medica" to "Yo doy el consentimiento para la atención médica"-->
 ```
