@@ -72,3 +72,7 @@
     </button>
 </div>
 ```
+
+## The Updated Page Should Look as Follows:
+
+![](resources/spanish_form.png)

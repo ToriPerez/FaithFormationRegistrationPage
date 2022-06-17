@@ -15,3 +15,7 @@
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>I give permission to take photos and utilize for parish purposes</span> <!--TODO: Changed "Permission to take photos" to "I give permission to take photos and utilize for parish purposes"-->
 
 ```
+
+## The Updated Page Should Look as Follows:
+
+![](resources/english_form.png)
