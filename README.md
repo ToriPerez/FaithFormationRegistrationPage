@@ -23,3 +23,10 @@
     <div class="mat-select-arrow-wrapper ng-tns-c106-8"><div class="mat-select-arrow ng-tns-c106-8"></div></div> <!--TODO: This drop-down should display two options: "Femenino" & "Masculino". It currently displays "Masculino" & "Mujer"-->
 </div>
 ```
+
+- Correct checkbox label:
+
+```html
+<span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>¿es feligrés registrado?</span> <!--TODO: Updated text from "?esta feligrés?" to "¿es feligrés registrado?"-->
+```
+
