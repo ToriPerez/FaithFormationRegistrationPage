@@ -9,3 +9,9 @@
 ```html
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>I give consent for medical care</span> <!--TODO: Changed "Consent for medical care" to "I give consent for medical care"-->
 ```
+
+3. Re-word `Photo Consent` clause:
+```html
+<span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>I give permission to take photos and utilize for parish purposes</span> <!--TODO: Changed "Permission to take photos" to "I give permission to take photos and utilize for parish purposes"-->
+
+```
