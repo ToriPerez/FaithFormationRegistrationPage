@@ -1,7 +1,6 @@
-# FaithFormationRegistrationPage Requested Changes
+# FaithFormationRegistrationPage Requested Changes (Spanish Page)
 
-## Spanish Page
-- At top, “Registro de Catecismo” and “clase de catecismo” // ~lines 2088 - 2089
+1.  At top, “Registro de Catecismo” and “clase de catecismo” // ~lines 2088 - 2089
 
 ```html
 <div _ngcontent-rpt-c89="" fxlayout="column" fxflex="1 1 80%" fxflex.sm="1 1 80%" fxflex.xs="1 1 100%"
@@ -12,7 +11,7 @@
 </div>
 ```
 
-- `Genero` drop-down items need to be updated:
+2. `Genero` drop-down items need to be updated:
 
 ```html
 <div cdk-overlay-origin="" class="mat-select-trigger ng-tns-c106-8">
@@ -24,13 +23,13 @@
 </div>
 ```
 
-- Correct checkbox label:
+3. Correct checkbox label:
 
 ```html
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>¿es feligrés registrado?</span> <!--TODO: Updated text from "?esta feligrés?" to "¿es feligrés registrado?"-->
 ```
 
-- Re-word `Household Information (Informacion del hogar)` section labels:
+4. Re-word `Household Information (Informacion del hogar)` section labels:
 ```html
 <div _ngcontent-egv-c169="" class="mt-16" style="flex-direction: row; box-sizing: border-box; display: flex;">
     ...
@@ -55,17 +54,17 @@
 
 ```
 
-- Re-word `Medical Attention` consent clause:
+5. Re-word `Medical Attention` consent clause:
 ```html
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>Yo doy el consentimiento para la atención médica</span> <!--TODO: Changed "Consentimiento para la atencion medica" to "Yo doy el consentimiento para la atención médica"-->
 ```
 
-- Re-word `Photo Consent` clause:
+6. Re-word `Photo Consent` clause:
 ```html
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>Yo doy permiso para sacar fotos y usarlos en la parroquia</span> <!--TODO: Changed "Permiso para tomar fotos" to "Yo doy permiso para sacar fotos y usarlos en la parroquia"-->
 ```
 
-- Update `SUBMIT` button label:
+7. Update `SUBMIT` button label:
 ```html
 <div _ngcontent-egv-c169="" fxlayout="row" fxlayoutgap="10px" fxflex="" style="flex-direction: row; box-sizing: border-box; display: flex; flex: 1 1 1e-9px;">
     <button _ngcontent-egv-c169="" type="submit" mat-raised-button="" class="mat-focus-indicator mat-raised-button mat-button-base">
