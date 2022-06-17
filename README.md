@@ -30,3 +30,28 @@
 <span class="mat-checkbox-label"><span style="display: none;">&nbsp;</span>¿es feligrés registrado?</span> <!--TODO: Updated text from "?esta feligrés?" to "¿es feligrés registrado?"-->
 ```
 
+- Re-word `Household Information (Informacion del hogar)` section labels:
+```html
+<div _ngcontent-egv-c169="" class="mt-16" style="flex-direction: row; box-sizing: border-box; display: flex;">
+    ...
+    <mat-card-header _ngcontent-egv-c169="" class="mat-card-header">
+        <div class="mat-card-header-text"><mat-card-title _ngcontent-egv-c169="" class="mat-card-title"> Información de la familia </mat-card-title></div> <!--TODO: "Informacion del hogar" changed to "Información de la familia"-->
+    </mat-card-header>
+
+    ...
+
+    <span class="ng-tns-c70-9 ng-star-inserted">Apellido de la familia</span> <!--TODO: Changed "Appellido del hogar" with "Apellido de la familia"-->
+
+    ...
+
+    <span class="ng-tns-c70-17 ng-star-inserted">Número de telefono de la familia</span> <!--TODO: Changed "Numero de telefono del hogar" to "Número de telefono de la familia"-->
+
+    ...
+
+    <span class="ng-tns-c70-10 ng-star-inserted">Correo electrónico de la familia</span> <!--TODO: Changed "Correo electronico del hogar" to "Correo electrónico de la familia"-->
+
+    ...
+</div>
+
+
+```
